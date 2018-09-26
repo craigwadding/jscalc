@@ -28,11 +28,12 @@ body {
 
 #display {
     float: left;
-    height: 100px;
-    width: 400px;
+    height: 99px;
+    width: 399px;
     text-align: right;
     font-size: 40px;
-    border: 1px solid #111;
+    border: 2px solid #111;
+    border-radius: 4px;
 }
 
 .clearButton {
